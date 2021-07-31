@@ -1,6 +1,7 @@
-[![Build Status](https://travis-ci.org/arunoda/node-redis-scripto.svg)](https://travis-ci.org/arunoda/node-redis-scripto)
 node-redis-scripto
 ==================
+
+[![Node.js CI](https://github.com/octave-online/node-redis-scripto/workflows/Node.js%20CI/badge.svg)](https://github.com/octave-online/node-redis-scripto/actions)
 
 ### Intelligent Redis Lua Script Manager for NodeJS
 
