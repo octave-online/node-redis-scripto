@@ -1,5 +1,7 @@
-node-redis-scripto
-==================
+node-redis-scripto2
+===================
+
+**This is a fork of [`redis-scripto`](https://github.com/arunoda/node-redis-scripto) with updated dependencies for modern Node.js.**  The API is identical, so if you currently use `redis-scripto`, you can migrate to `redis-scripto2` without making any changes in your code except for the package name.
 
 [![Node.js CI](https://github.com/octave-online/node-redis-scripto/workflows/Node.js%20CI/badge.svg)](https://github.com/octave-online/node-redis-scripto/actions)
 
