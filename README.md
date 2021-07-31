@@ -16,7 +16,7 @@ node-redis-scripto
 * Just tell the `dirname` to `scripto`, it will take care of lua scripts
 
 ~~~js
-    var Scripto = require('redis-scripto');
+    var Scripto = require('redis-scripto2');
     var scriptManager = new Scripto(redisClient);
     scriptManager.loadFromDir('/path/to/lua/scripts');
 

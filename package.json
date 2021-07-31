@@ -1,6 +1,6 @@
 {
   "name": "redis-scripto2",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "description": "Redis Lua Script Manager for NodeJS",
   "keywords": [
     "redis",
@@ -10,10 +10,10 @@
     "eval"
   ],
   "main": "./lib/scripto.js",
-  "author": "Arunoda Susiripala <arunoda.susiripala@gmail.com>",
+  "author": "Octave Online Team <support@octave-online.net>",
   "repository": {
     "type": "git",
-    "url": "git://github.com/arunoda/node-redis-scripto.git"
+    "url": "git://github.com/octave-online/node-redis-scripto.git"
   },
   "engines": {
     "node": ">= 0.8.x"
